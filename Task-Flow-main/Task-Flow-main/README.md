@@ -286,7 +286,7 @@ npm run build
 ## 👥 Authors & Contributors
 
 **Maintainers:**
-- [Ayush Ranjan](https://github.com/akash6595) - Creator
+- [Akash chaudhary](https://github.com/akash6595) - Creator
 
 **Contributors:**
 - [repodoc.ai](https://repodoc-ai.dev) - Documentation
