@@ -286,7 +286,7 @@ npm run build
 ## 👥 Authors & Contributors
 
 **Maintainers:**
-- [Ayush Ranjan](https://github.com/Ayushbhai89) - Creator
+- [Ayush Ranjan](https://github.com/akash6595) - Creator
 
 **Contributors:**
 - [repodoc.ai](https://repodoc-ai.dev) - Documentation
@@ -301,7 +301,7 @@ npm run build
 - Expected behavior
 - Screenshots if applicable
 
-**Need help?** Join our [Discussions](https://github.com/Ayushbhai89/Task-flow/discussions)
+**Need help?** Join our [Discussions](https://github.com/akash6595/Task-flow/discussions)
 
 **FAQ:**
 - Q: How do I customize the colors?
